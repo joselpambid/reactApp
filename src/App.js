@@ -57,7 +57,7 @@ class App extends Component{
         <Header/>
         <Route
           exact 
-          path="/"
+          path="/reactApp"
           render={props =>(
             <React.Fragment>
               <div className="container">
